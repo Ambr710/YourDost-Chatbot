@@ -1,5 +1,8 @@
 # YourDost - Mental Head Chatbot 🧠💬
 
+## 🚀 Try it live
+
+[Click here to chat with YourDost](https://yourdost-chatbot-4rvjukp7w32jmvpfn4jfdt.streamlit.app/)
 YourDost is a supportive mental health chatbot built with **Streamlit**, **LangChain**, and **Google's Gemini API**. It acts as a patient, caring companion trained to help users understand their emotions and work through negative feelings using techniques like CBT (Cognitive Behavioral Therapy).
 
 > ⚠️ **Disclaimer:** This chatbot is an AI tool for emotional support and is **not a substitute for professional mental health care**. If you or someone you know is in crisis, please reach out to a licensed therapist, counselor, or a crisis helpline in your region immediately.
@@ -34,6 +37,7 @@ python -m venv venv
 ```
 
 Activate it:
+
 - **Windows (PowerShell):** `.\venv\Scripts\Activate.ps1`
 - **Mac/Linux:** `source venv/bin/activate`
 
