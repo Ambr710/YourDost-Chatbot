@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 google_api_key = os.getenv('GOOGLE_API_KEY') or st.secrets.get('GOOGLE_API_KEY')
-st.write("DEBUG - Key loaded:", bool(google_api_key))
+
 
 # %%
 from langchain_google_genai import ChatGoogleGenerativeAI
