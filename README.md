@@ -1,4 +1,4 @@
-# YourDost - Mental Health Chatbot 🧠💬
+# YourDost - Mental Head Chatbot 🧠💬
 
 YourDost is a supportive mental health chatbot built with **Streamlit**, **LangChain**, and **Google's Gemini API**. It acts as a patient, caring companion trained to help users understand their emotions and work through negative feelings using techniques like CBT (Cognitive Behavioral Therapy).
 
